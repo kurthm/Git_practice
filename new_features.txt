@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This file has some new text.
-=======
-This file has some new text.
->>>>>>> features
